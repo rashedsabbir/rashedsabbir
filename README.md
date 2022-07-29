@@ -1,3 +1,4 @@
+<img src="./banner.jpg" alt="banner" />
 <h1 align="center">Hello 👋, I'm Rashedul Hassan Sabbir</h1>
 <h3 align="center">I am a full-stack web developer with knowledge of Reactjs, CRUD, Tailwind CSS, Bootstrap, Firebase Authentication, MongoDB, Expressjs, HTML, CSS, and JavaScript. Graduated Bachelor's degree in Computer Science and Engineering from Bangabandhu Sheikh Mujibur Rahman Science and Technology University, Gopalganj, Bangladesh.</h3>
 
