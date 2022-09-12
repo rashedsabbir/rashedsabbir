@@ -41,7 +41,7 @@
 
 <p>&nbsp;<img width="355" align="center" src="https://github-readme-stats.vercel.app/api?username=rashedsabbir&show_icons=true&locale=en" alt="rashedsabbir" /></p>
 
-<p><img align="center" width="296" src="https://github-readme-streak-stats.herokuapp.com/?user=rashedsabbir&" alt="rashedsabbir" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rashedsabbir&" alt="rashedsabbir" /></p>
 
 ### ✍️ Dev Quote
 
