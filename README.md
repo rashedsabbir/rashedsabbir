@@ -1,14 +1,11 @@
 <h1 align="center">Hello 👋, I'm Rashedul Hassan Sabbir</h1>
 <h3 align="left">I am a full-stack web developer with knowledge of Reactjs, CRUD, Tailwind CSS, Bootstrap, Firebase Authentication, MongoDB, Expressjs, HTML, CSS, and JavaScript. Graduated Bachelor's degree in Computer Science and Engineering from Bangabandhu Sheikh Mujibur Rahman Science and Technology University, Gopalganj, Bangladesh.</h3>
 
-<table>
-<tr>
-<td width="70%"><img align="center" src="./banner.jpg" alt="banner" /></td>
-<td><p align="left"> <img src="https://komarev.com/ghpvc/?username=rashedsabbir&label=Profile%20views&color=0e75b6&style=flat" width='150' alt="rashedsabbir" /> </p>
+<img src="./banner.jpg" alt="banner" />
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rashedsabbir" alt="rashedsabbir" /></a> </p></td>
-</tr>
-</table>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=rashedsabbir&label=Profile%20views&color=0e75b6&style=flat" width='150' alt="rashedsabbir" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rashedsabbir" alt="rashedsabbir" /></a> </p>
 
 - 🔭 I’m currently working on [PerformCamp](https://github.com/saklain71/performcamp)
 
@@ -43,7 +40,7 @@
 <p><img align="left" width="296" src="https://github-readme-stats.vercel.app/api/top-langs?username=rashedsabbir&show_icons=true&locale=en&layout=compact" alt="rashedsabbir" /></p>
 
 <p>&nbsp;<img width="355" align="center" src="https://github-readme-stats.vercel.app/api?username=rashedsabbir&show_icons=true&locale=en" alt="rashedsabbir" /></p>
-<a href="https://app.daily.dev/rashedsabbir"><img src="https://api.daily.dev/devcards/e80303a73352446e8972d3b272ec8881.png?r=nk9" width="400" alt="Rashedul Hassan Sabbir's Dev Card"/></a>
+
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rashedsabbir&" alt="rashedsabbir" /></p>
 
 ### ✍️ Dev Quote
