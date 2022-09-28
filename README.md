@@ -2,21 +2,15 @@
 <h3 align="left">I am a problem cracker who likes to spend hours and hours googling trying to find the best possible solution. Pick a problem and rest the solving part up to me. If I can’t find the exact solution, I will find the best alternatives to avoid failure!</h3>
 <h3>★ Spent 4+ years as an Engineering student at BSMRSTU alongside 2+ years of experience as a small business entrepreneur and 2+ years as a Campus Director for a non-profit Organisation.</h3>
 <h3>★ At the end of 2021 started to develop skills to grow as a Full Stack Developer.</h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rashedsabbir&label=Profile%20views&color=0e75b6&style=flat" width='150' alt="rashedsabbir" /> </p>
 
-<table>
-<tr>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rashedsabbir" alt="rashedsabbir" /></a> </p>
 
-<td><p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rashedsabbir" alt="rashedsabbir" /></a> </p></td>
-
-
- <table><tr align='left'>
+ <table><tr>
  <td><a href="https://app.daily.dev/rashedsabbir"><img src="https://api.daily.dev/devcards/e80303a73352446e8972d3b272ec8881.png?r=nk9" width="400" alt="Rashedul Hassan Sabbir's Dev Card"/></a></td>
-    <td><p align='center'><img width='400'  src="https://github-readme-streak-stats.herokuapp.com/?user=rashedsabbir&" alt="rashedsabbir" /></p><p><img  width="280" src="https://github-readme-stats.vercel.app/api/top-langs?username=rashedsabbir&show_icons=true&locale=en&layout=compact" alt="rashedsabbir" /></p>
-<p>&nbsp;<img width="355" align="left" src="https://github-readme-stats.vercel.app/api?username=rashedsabbir&show_icons=true&locale=en" alt="rashedsabbir" /></p></td></tr></table> </td>
-  
-</tr>
-</table>
+    <td><p align="left"> <img src="https://komarev.com/ghpvc/?username=rashedsabbir&label=Profile%20views&color=0e75b6&style=flat" width='150' alt="rashedsabbir" /> </p>
+    <p ><img width='355' src="https://github-readme-streak-stats.herokuapp.com/?user=rashedsabbir&" alt="rashedsabbir" /></p>
+    <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=rashedsabbir&show_icons=true&locale=en&layout=compact" alt="rashedsabbir" /></p>
+<p><img width='355' src="https://github-readme-stats.vercel.app/api?username=rashedsabbir&show_icons=true&locale=en" alt="rashedsabbir" /></p></td></tr></table>
 
 - 🔭 I’m currently working on [PerformCamp](https://github.com/saklain71/performcamp)
 
