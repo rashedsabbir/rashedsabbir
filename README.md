@@ -6,8 +6,9 @@
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rashedsabbir" alt="rashedsabbir" /></a> </p>
 
  <table><tr>
- <td><a href="https://app.daily.dev/rashedsabbir"><img src="https://api.daily.dev/devcards/e80303a73352446e8972d3b272ec8881.png?r=nk9" width="400" alt="Rashedul Hassan Sabbir's Dev Card"/></a></td>
-    <td><p align="center"> <img src="https://komarev.com/ghpvc/?username=rashedsabbir&label=Profile%20views&color=0e75b6&style=flat" width='150' alt="rashedsabbir" /> </p>
+ <td><p align="center"> <img src="https://komarev.com/ghpvc/?username=rashedsabbir&label=Profile%20views&color=0e75b6&style=flat" width='150' alt="rashedsabbir" /> </p>
+ <a href="https://app.daily.dev/rashedsabbir"><img src="https://api.daily.dev/devcards/e80303a73352446e8972d3b272ec8881.png?r=nk9" width="340" alt="Rashedul Hassan Sabbir's Dev Card"/></a></td>
+    <td>
     <p ><img width='400' src="https://github-readme-streak-stats.herokuapp.com/?user=rashedsabbir&" alt="rashedsabbir" /></p>
     <p align='center'><img  src="https://github-readme-stats.vercel.app/api/top-langs?username=rashedsabbir&show_icons=true&locale=en&layout=compact" alt="rashedsabbir" /></p>
 <p><img width='400' src="https://github-readme-stats.vercel.app/api?username=rashedsabbir&show_icons=true&locale=en" alt="rashedsabbir" /></p></td></tr></table>
