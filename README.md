@@ -1,4 +1,5 @@
 <h1 align="center">Hello 👋, I'm Rashedul Hassan Sabbir</h1>
+<p align='center'><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&width=435&lines=Full+Stack+Developer;MERN+Stack+Developer;Frontend+Developer;Software+Developer;JavaScript+Developer;ReactJS+Developer" alt="Typing SVG" /></a></p>
 <h3 align="left">I am a problem cracker who likes to spend hours and hours googling trying to find the best possible solution. Pick a problem and rest the solving part up to me. If I can’t find the exact solution, I will find the best alternatives to avoid failure!</h3>
 <h3>★ Spent 4+ years as an Engineering student at BSMRSTU alongside 2+ years of experience as a small business entrepreneur and 2+ years as a Campus Director for a non-profit Organisation.</h3>
 <h3>★ At the end of 2021 started to develop skills to grow as a Full Stack Developer.</h3>
