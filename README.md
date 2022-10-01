@@ -2,7 +2,7 @@
 <h3 align="left">I am a problem cracker who likes to spend hours and hours googling trying to find the best possible solution. Pick a problem and rest the solving part up to me. If I can’t find the exact solution, I will find the best alternatives to avoid failure!</h3>
 <h3>★ Spent 4+ years as an Engineering student at BSMRSTU alongside 2+ years of experience as a small business entrepreneur and 2+ years as a Campus Director for a non-profit Organisation.</h3>
 <h3>★ At the end of 2021 started to develop skills to grow as a Full Stack Developer.</h3>
-
+<p align='center'><a href="https://wakatime.com/@c2d5312d-949f-46c0-9436-981f2bd1bbad"><img src="https://wakatime.com/badge/user/c2d5312d-949f-46c0-9436-981f2bd1bbad.svg" alt="Total time coded since Sep 29 2022" /></a></p>
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rashedsabbir" alt="rashedsabbir" /></a> </p>
 
  <table><tr>
