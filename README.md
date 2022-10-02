@@ -20,25 +20,27 @@
 
 - 👯 I’m looking to collaborate on [Chunk Manufacturer](https://github.com/rashedsabbir/Chunk-Manufacturer-Client)
 
-- 👨‍💻 All of my projects are available at [https://rashed-sabbir-portfolio.web.app](https://rashed-sabbir-portfolio.web.app)
+- 👨‍💻 All of my projects are available at [my portfolio](https://rashed-sabbir-portfolio.web.app)
 
 - 💬 Ask me about **react, CRUD, Tailwind CSS**
 
 - 📫 How to reach me **rashedsabbir16@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1z8dGKRaPVVWnlWiu5sVcOAja88XQr3cr/view?usp=sharing](https://drive.google.com/file/d/1z8dGKRaPVVWnlWiu5sVcOAja88XQr3cr/view?usp=sharing)
+- 📄 Know about my experiences: [Click to see Resume](https://drive.google.com/file/d/1z8dGKRaPVVWnlWiu5sVcOAja88XQr3cr/view?usp=sharing)
 
 - ⚡ Fun fact **I think I am a problem finder**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/rashedsabbir16" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rashedsabbir16" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/rashedsabbir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rashedsabbir" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/19063320" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="19063320" height="30" width="40" /></a>
-<a href="https://kaggle.com/rashedsabbir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="rashedsabbir" height="30" width="40" /></a>
-<a href="https://fb.com/rashedsabbir16" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="rashedsabbir16" height="30" width="40" /></a>
-<a href="https://instagram.com/rashed_sabbir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rashed_sabbir" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/rashedsabbir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="rashedsabbir" height="30" width="40" /></a>
+<a href="https://twitter.com/rashedsabbir16" target="blank"><img align="center" src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" alt="rashedsabbir16" /></a>
+<a href="https://wa.me/01622373408" target="blank"><img align="center" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="rashedsabbir16" /></a>
+<a href="https://linkedin.com/in/rashedsabbir" target="blank"><img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="rashedsabbir" /></a>
+<a href="https://stackoverflow.com/users/19063320" target="blank"><img align="center" src="https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="19063320" /></a>
+<a href="https://kaggle.com/rashedsabbir" target="blank"><img align="center" src="https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white" alt="rashedsabbir" /></a>
+<a href="mailto:rashedsabbir16@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="rashedsabbir16" /></a>
+<a href="https://fb.com/rashedsabbir16" target="blank"><img align="center" src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" alt="rashedsabbir16" /></a>
+<a href="https://instagram.com/rashed_sabbir" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="rashed_sabbir" /></a>
+<a href="https://www.leetcode.com/rashedsabbir" target="blank"><img align="center" src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" alt="rashedsabbir" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
