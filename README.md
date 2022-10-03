@@ -91,11 +91,8 @@
         <td>Language</td>
         <td>Framework & Libraries</td>
         <td>Database</td>
-        <td>Hosting</td>
-        <td>Tool</td>
-        <td>Version Control</td>
     </tr>
-    <tr align='center'>
+    <tr>
         <td><img align="center"
                 src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
             <img align="center"
@@ -137,7 +134,16 @@
             <img align="center"
                 src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" />
         </td>
-        <td><img align="center"
+    </tr>
+</table>
+<table>
+<tr align='center'>
+<td>Hosting</td>
+        <td>Tool</td>
+        <td>Version Control</td>
+</tr>
+<tr>
+<td><img align="center"
                 src="https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white" />
             <img align="center"
                 src="https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7" />
@@ -166,7 +172,7 @@
             <img align="center"
                 src="https://img.shields.io/badge/gitpod-f06611.svg?style=for-the-badge&logo=gitpod&logoColor=white" />
         </td>
-    </tr>
+</tr>
 </table>
 <div align='center'>
 
