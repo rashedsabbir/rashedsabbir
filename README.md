@@ -25,12 +25,12 @@
                     alt="Rashedul Hassan Sabbir's Dev Card" /></a>
         </td>
         <td>
-            <p><img width='400' src="https://github-readme-streak-stats.herokuapp.com/?user=rashedsabbir&"
+            <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=rashedsabbir&"
                     alt="rashedsabbir" /></p>
             <p align='center'><img
                     src="https://github-readme-stats.vercel.app/api/top-langs?username=rashedsabbir&show_icons=true&locale=en&layout=compact"
                     alt="rashedsabbir" /></p>
-            <p><img width='400'
+            <p><img
                     src="https://github-readme-stats.vercel.app/api?username=rashedsabbir&show_icons=true&locale=en"
                     alt="rashedsabbir" /></p>
         </td>
@@ -91,6 +91,9 @@
         <td>Language</td>
         <td>Framework & Libraries</td>
         <td>Database</td>
+        <td>Hosting</td>
+        <td>Tool</td>
+        <td>Version Control</td>
     </tr>
     <tr>
         <td><img align="center"
@@ -134,16 +137,7 @@
             <img align="center"
                 src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" />
         </td>
-    </tr>
-</table>
-<table>
-<tr align='center'>
-<td>Hosting</td>
-        <td>Tool</td>
-        <td>Version Control</td>
-</tr>
-<tr>
-<td><img align="center"
+        <td><img align="center"
                 src="https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white" />
             <img align="center"
                 src="https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7" />
@@ -172,7 +166,7 @@
             <img align="center"
                 src="https://img.shields.io/badge/gitpod-f06611.svg?style=for-the-badge&logo=gitpod&logoColor=white" />
         </td>
-</tr>
+    </tr>
 </table>
 <div align='center'>
 
