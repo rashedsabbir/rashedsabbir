@@ -8,15 +8,15 @@
 <h3>★ Spent 4+ years as an Engineering student at BSMRSTU alongside 2+ years of experience as a small business
     entrepreneur and 2+ years as a Campus Director for a non-profit Organisation.</h3>
 <h3>★ At the end of 2021 started to develop skills to grow as a Full Stack Developer.</h3>
-<p align='center'><a href="https://wakatime.com/@c2d5312d-949f-46c0-9436-981f2bd1bbad"><img
-            src="https://wakatime.com/badge/user/c2d5312d-949f-46c0-9436-981f2bd1bbad.svg"
-            alt="Total time coded since Sep 29 2022" /></a></p>
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img
             src="https://github-profile-trophy.vercel.app/?username=rashedsabbir" alt="rashedsabbir" /></a> </p>
 
 <table>
     <tr>
         <td>
+        <p align='center'><span height='10px'>Last 7 days coding time: </span><a href="https://wakatime.com/@c2d5312d-949f-46c0-9436-981f2bd1bbad"><img align='center'
+            src="https://wakatime.com/badge/user/c2d5312d-949f-46c0-9436-981f2bd1bbad.svg"
+            alt="Total time coded since Sep 29 2022" /></a></p>
             <p align="center"> <img
                     src="https://komarev.com/ghpvc/?username=rashedsabbir&label=Profile%20views&color=0e75b6&style=flat"
                     width='150' alt="rashedsabbir" /> </p>
@@ -37,20 +37,25 @@
     </tr>
 </table>
 
-- 🔭 I’m currently working on [PerformCamp](https://github.com/saklain71/performcamp)
+- 🔭 I’m currently working on <a href="https://github.com/saklain71/performcamp" target="blank"><img align="center"
+            src="https://img.shields.io/badge/-PerformCamp-D14836"
+            alt="rashedsabbir16" /></a>
 
 - 🌱 I’m currently learning **Redux, TypeScript**
 
-- 👯 I’m looking to collaborate on [Chunk Manufacturer](https://github.com/rashedsabbir/Chunk-Manufacturer-Client)
+- 👯 I’m looking to collaborate on <a href="https://github.com/rashedsabbir/Chunk-Manufacturer-Client" target="blank"><img align="center"
+            src="https://img.shields.io/badge/-Chunk%20Manufacturer-FE7A16"
+            alt="rashedsabbir16" /></a>
 
-- 👨‍💻 All of my projects are available at [my portfolio](https://rashed-sabbir-portfolio.web.app)
+- 👨‍💻 All of my projects are available at <a href="https://rashed-sabbir-portfolio.web.app" target="blank"><img align="center"
+            src="https://img.shields.io/badge/-My%20Portfolio-%231DA1F2"
+            alt="rashedsabbir16" /></a>
 
-- 💬 Ask me about **react, CRUD, Tailwind CSS**
+- 💬 Ask me about **React, JavaScript, Tailwind CSS**
 
-- 📫 How to reach me **rashedsabbir16@gmail.com**
-
-- 📄 Know about my experiences: [Click to see
-  Resume](https://drive.google.com/file/d/1z8dGKRaPVVWnlWiu5sVcOAja88XQr3cr/view?usp=sharing)
+- 📄 Know about my experiences: <a href="https://drive.google.com/file/d/1z8dGKRaPVVWnlWiu5sVcOAja88XQr3cr/view?usp=sharing" target="blank"><img align="center"
+            src="https://img.shields.io/badge/-View%20Resume-6DA55F"
+            alt="rashedsabbir16" /></a>
 
 - ⚡ Fun fact **I think I am a problem finder**
 
@@ -91,9 +96,6 @@
         <td>Language</td>
         <td>Framework & Libraries</td>
         <td>Database</td>
-        <td>Hosting</td>
-        <td>Tool</td>
-        <td>Version Control</td>
     </tr>
     <tr>
         <td><img align="center"
@@ -137,7 +139,16 @@
             <img align="center"
                 src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" />
         </td>
-        <td><img align="center"
+    </tr>
+</table>
+<table>
+<tr align='center'>
+<td>Hosting</td>
+        <td>Tool</td>
+        <td>Version Control</td>
+</tr>
+<tr>
+<td><img align="center"
                 src="https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white" />
             <img align="center"
                 src="https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7" />
@@ -166,7 +177,7 @@
             <img align="center"
                 src="https://img.shields.io/badge/gitpod-f06611.svg?style=for-the-badge&logo=gitpod&logoColor=white" />
         </td>
-    </tr>
+</tr>
 </table>
 <div align='center'>
 
