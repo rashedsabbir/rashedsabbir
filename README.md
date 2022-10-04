@@ -14,9 +14,10 @@
 <table>
     <tr>
         <td>
-        <p align='center'><span height='10px'>Last 7 days coding time: </span><a href="https://wakatime.com/@c2d5312d-949f-46c0-9436-981f2bd1bbad"><img align='center'
-            src="https://wakatime.com/badge/user/c2d5312d-949f-46c0-9436-981f2bd1bbad.svg"
-            alt="Total time coded since Sep 29 2022" /></a></p>
+            <p align='center'><span height='10px'>Last 7 days coding: </span><a
+                    href="https://wakatime.com/@c2d5312d-949f-46c0-9436-981f2bd1bbad"><img align='center'
+                        src="https://wakatime.com/badge/user/c2d5312d-949f-46c0-9436-981f2bd1bbad.svg"
+                        alt="Total time coded since Sep 29 2022" /></a></p>
             <p align="center"> <img
                     src="https://komarev.com/ghpvc/?username=rashedsabbir&label=Profile%20views&color=0e75b6&style=flat"
                     width='150' alt="rashedsabbir" /> </p>
@@ -25,44 +26,40 @@
                     alt="Rashedul Hassan Sabbir's Dev Card" /></a>
         </td>
         <td>
-            <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=rashedsabbir&"
-                    alt="rashedsabbir" /></p>
+            <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=rashedsabbir&" alt="rashedsabbir" /></p>
             <p align='center'><img
                     src="https://github-readme-stats.vercel.app/api/top-langs?username=rashedsabbir&show_icons=true&locale=en&layout=compact"
                     alt="rashedsabbir" /></p>
-            <p><img
-                    src="https://github-readme-stats.vercel.app/api?username=rashedsabbir&show_icons=true&locale=en"
+            <p><img src="https://github-readme-stats.vercel.app/api?username=rashedsabbir&show_icons=true&locale=en"
                     alt="rashedsabbir" /></p>
         </td>
     </tr>
 </table>
 
 - 🔭 I’m currently working on <a href="https://github.com/saklain71/performcamp" target="blank"><img align="center"
-            src="https://img.shields.io/badge/-PerformCamp-D14836"
-            alt="rashedsabbir16" /></a>
+        src="https://img.shields.io/badge/-PerformCamp-D14836" alt="rashedsabbir16" /></a>
 
 - 🌱 I’m currently learning **Redux, TypeScript**
 
-- 👯 I’m looking to collaborate on <a href="https://github.com/rashedsabbir/Chunk-Manufacturer-Client" target="blank"><img align="center"
-            src="https://img.shields.io/badge/-Chunk%20Manufacturer-FE7A16"
-            alt="rashedsabbir16" /></a>
+- 👯 I’m looking to collaborate on <a href="https://github.com/rashedsabbir/Chunk-Manufacturer-Client"
+    target="blank"><img align="center" src="https://img.shields.io/badge/-Chunk%20Manufacturer-FE7A16"
+        alt="rashedsabbir16" /></a>
 
-- 👨‍💻 All of my projects are available at <a href="https://rashed-sabbir-portfolio.web.app" target="blank"><img align="center"
-            src="https://img.shields.io/badge/-My%20Portfolio-%231DA1F2"
-            alt="rashedsabbir16" /></a>
+- 👨‍💻 All of my projects are available at <a href="https://rashed-sabbir-portfolio.web.app" target="blank"><img
+        align="center" src="https://img.shields.io/badge/-My%20Portfolio-%231DA1F2" alt="rashedsabbir16" /></a>
 
 - 💬 Ask me about **React, JavaScript, Tailwind CSS**
 
-- 📄 Know about my experiences: <a href="https://drive.google.com/file/d/1z8dGKRaPVVWnlWiu5sVcOAja88XQr3cr/view?usp=sharing" target="blank"><img align="center"
-            src="https://img.shields.io/badge/-View%20Resume-6DA55F"
-            alt="rashedsabbir16" /></a>
+- 📄 Know about my experiences: <a
+    href="https://drive.google.com/file/d/1z8dGKRaPVVWnlWiu5sVcOAja88XQr3cr/view?usp=sharing" target="blank"><img
+        align="center" src="https://img.shields.io/badge/-View%20Resume-6DA55F" alt="rashedsabbir16" /></a>
 
 - ⚡ Fun fact **I think I am a problem finder**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-    <a href="https://twitter.com/rashedsabbir16" target="blank"><img align="center"
-            src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"
+    <a href="mailto:rashedsabbir16@gmail.com" target="blank"><img align="center"
+            src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"
             alt="rashedsabbir16" /></a>
     <a href="https://wa.me/01622373408" target="blank"><img align="center"
             src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"
@@ -70,14 +67,17 @@
     <a href="https://linkedin.com/in/rashedsabbir" target="blank"><img align="center"
             src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"
             alt="rashedsabbir" /></a>
+    <a href="https://www.leetcode.com/rashedsabbir" target="blank"><img align="center"
+            src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06"
+            alt="rashedsabbir" /></a>
     <a href="https://stackoverflow.com/users/19063320" target="blank"><img align="center"
             src="https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"
             alt="19063320" /></a>
     <a href="https://kaggle.com/rashedsabbir" target="blank"><img align="center"
             src="https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white"
             alt="rashedsabbir" /></a>
-    <a href="mailto:rashedsabbir16@gmail.com" target="blank"><img align="center"
-            src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"
+    <a href="https://twitter.com/rashedsabbir16" target="blank"><img align="center"
+            src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"
             alt="rashedsabbir16" /></a>
     <a href="https://fb.com/rashedsabbir16" target="blank"><img align="center"
             src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white"
@@ -85,9 +85,6 @@
     <a href="https://instagram.com/rashed_sabbir" target="blank"><img align="center"
             src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"
             alt="rashed_sabbir" /></a>
-    <a href="https://www.leetcode.com/rashedsabbir" target="blank"><img align="center"
-            src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06"
-            alt="rashedsabbir" /></a>
 </p>
 
 <h3 align="left">Skills:</h3>
@@ -142,13 +139,13 @@
     </tr>
 </table>
 <table>
-<tr align='center'>
-<td>Hosting</td>
+    <tr align='center'>
+        <td>Hosting</td>
         <td>Tool</td>
         <td>Version Control</td>
-</tr>
-<tr>
-<td><img align="center"
+    </tr>
+    <tr>
+        <td><img align="center"
                 src="https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white" />
             <img align="center"
                 src="https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7" />
@@ -177,7 +174,7 @@
             <img align="center"
                 src="https://img.shields.io/badge/gitpod-f06611.svg?style=for-the-badge&logo=gitpod&logoColor=white" />
         </td>
-</tr>
+    </tr>
 </table>
 <div align='center'>
 
