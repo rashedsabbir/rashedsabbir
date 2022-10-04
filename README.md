@@ -26,11 +26,11 @@
                     alt="Rashedul Hassan Sabbir's Dev Card" /></a>
         </td>
         <td>
-            <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=rashedsabbir&" alt="rashedsabbir" /></p>
+            <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=rashedsabbir" alt="rashedsabbir" /></p>
             <p align='center'><img
-                    src="https://github-readme-stats.vercel.app/api/top-langs?username=rashedsabbir&show_icons=true&locale=en&layout=compact"
+                    src="https://github-readme-stats.vercel.app/api/top-langs?username=rashedsabbir&theme=vue&show_icons=true&locale=en&layout=compact"
                     alt="rashedsabbir" /></p>
-            <p><img src="https://github-readme-stats.vercel.app/api?username=rashedsabbir&show_icons=true&locale=en"
+            <p><img src="https://github-readme-stats.vercel.app/api?username=rashedsabbir&theme=gruvbox_light&show_icons=true&locale=en"
                     alt="rashedsabbir" /></p>
         </td>
     </tr>
