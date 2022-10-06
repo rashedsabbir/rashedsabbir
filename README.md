@@ -107,6 +107,8 @@
                 src="https://img.shields.io/badge/markdown-%23000000.svg?&logo=markdown&logoColor=white" />
             <img align="center"
                 src="https://img.shields.io/badge/typescript-%23007ACC.svg?&logo=typescript&logoColor=white" />
+                <img align="center"
+                src="https://img.shields.io/badge/Python-14354C?&logo=python&logoColor=white" />
         </td>
         <td><img align="center"
                 src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?&logo=bootstrap&logoColor=white" />
@@ -130,6 +132,8 @@
                 src="https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?&logo=reacthookform&logoColor=white" />
             <img align="center"
                 src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?&logo=tailwind-css&logoColor=white" />
+            <img align="center"
+                src="https://img.shields.io/badge/Material--UI-0081CB?&logo=material-ui&logoColor=white" />
         </td>
         <td><img align="center"
                 src="https://img.shields.io/badge/Firebase-039BE5?&logo=Firebase&logoColor=white" />
