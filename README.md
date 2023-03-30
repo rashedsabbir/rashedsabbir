@@ -14,7 +14,7 @@
 <table>
     <tr>
         <td>
-            <p align='center'><span height='10px'>Last 7 days coding: </span><a
+            <p align='center'><span height='10px'>Total coding time: </span><a
                     href="https://wakatime.com/@c2d5312d-949f-46c0-9436-981f2bd1bbad"><img align='center'
                         src="https://wakatime.com/badge/user/c2d5312d-949f-46c0-9436-981f2bd1bbad.svg"
                         alt="Total time coded since Sep 29 2022" /></a></p>
