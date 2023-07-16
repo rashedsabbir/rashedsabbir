@@ -51,7 +51,7 @@
 - 💬 Ask me about **React, JavaScript, Tailwind CSS**
 
 - 📄 Know about my experiences: <a
-    href="https://drive.google.com/file/d/1z8dGKRaPVVWnlWiu5sVcOAja88XQr3cr/view?usp=sharing" target="blank"><img
+    href="https://drive.google.com/file/d/1TZ9C2cP617YAFPX5UdI1bkjIVRPiAzR7/view?usp=drive_link" target="blank"><img
         align="center" src="https://img.shields.io/badge/-View%20Resume-6DA55F" alt="rashedsabbir16" /></a>
 
 - ⚡ Fun fact **I think I am a problem finder**
