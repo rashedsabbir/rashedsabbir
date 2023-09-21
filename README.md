@@ -2,6 +2,19 @@
 <p align='center'><a href="https://git.io/typing-svg"><img
             src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&width=435&lines=Full+Stack+Developer;MERN+Stack+Developer;Frontend+Developer;Software+Developer;JavaScript+Developer;ReactJS+Developer"
             alt="Typing SVG" /></a></p>
+<div align="center">
+  <a target="_blank" href="https://github.com/rashedsabbir">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rashedsabbir&layout=compact&langs_count=15&theme=midnight-purple&exclude_repo=feature-extraction-classification&custom_title=Most Used Languages (public repos)">
+  </a>
+</div>
+<div align="center">
+  <a target="_blank" href="https://github.com/rashedsabbir">
+    <img src="https://github-readme-stats.vercel.app/api?username=rashedsabbir&hide=prs&count_private=true&show_icons=true&theme=midnight-purple&custom_title=Github Stats (public repos)" />
+  </a>
+  <a target="_blank" href="https://github.com/rashedsabbir">
+    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=rashedsabbir&layout=compact&theme=midnight-purple&custom_title=Programming%20Times%20(since%20Jul%203%202021)">
+  </a>
+</div>
 <h3 align="left">I am a problem cracker who likes to spend hours and hours googling trying to find the best possible
     solution. Pick a problem and rest the solving part up to me. If I can’t find the exact solution, I will find the
     best alternatives to avoid failure!</h3>
